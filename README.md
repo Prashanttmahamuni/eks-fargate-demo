@@ -2,7 +2,7 @@
 
   This project demonstrates how to deploy an **Amazon Elastic Kubernetes Service (EKS)** cluster using **AWS Fargate**, configure IAM roles for service accounts (IRSA), and expose a sample application (`2048 game`) using the **AWS Load Balancer Controller** and an **Application Load Balancer (ALB)**.                
                                                         
----      asdsfdgfhjhgdfgh                                  
+---                            
                                           
 ## 📌 Prerequisites  
 Before starting, ensure you have the following installed and configured locally:  
