@@ -17,7 +17,7 @@ Before starting, ensure you have the following installed and configured locally:
 
 AWS Fargate is a **serverless compute engine for containers**.  
 It removes the need to provision and manage EC2 worker nodes.  
-
+      
 ```bash
 eksctl create cluster --name demo-cluster --region ap-south-1 --fargate
 🔗 2. Configure kubectl
