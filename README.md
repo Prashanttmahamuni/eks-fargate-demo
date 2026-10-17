@@ -12,7 +12,7 @@ Before starting, ensure you have the following installed and configured locally:
 - **AWS CLI** – For interacting with AWS services (`aws configure` to set up credentials)  
 
 ---
-
+        
 ## ⚙️ 1. Create EKS Cluster on Fargate  
 
 AWS Fargate is a **serverless compute engine for containers**.  
